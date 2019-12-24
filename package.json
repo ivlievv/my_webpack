@@ -2,17 +2,21 @@
   "name": "learn-webpack",
   "version": "1.0.0",
   "description": "my test project",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
     "my-test": "ls -la"
   },
   "keywords": [],
-  "homepage": "",
+  "private": true,
+  "homepage": "https://github.com/ivlievv/my_webpack.git",
+  "bugs": {
+    "url": "https://github.com/ivlievv/my_webpack/issues"
+  },
   "author": "Ihor Ivliev",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^4.41.4"
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10"
   },
   "dependencies": {
     "lodash": "^4.17.15"
