@@ -1,0 +1,20 @@
+{
+  "name": "learn-webpack",
+  "version": "1.0.0",
+  "description": "my test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "my-test": "ls -la"
+  },
+  "keywords": [],
+  "homepage": "",
+  "author": "Ihor Ivliev",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
